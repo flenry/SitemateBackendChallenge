@@ -1,0 +1,24 @@
+# Server
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Client
+/build
+/.next
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+
+# Directories specific to your project
+sitemateServer/dist
+SitemateClient/build
